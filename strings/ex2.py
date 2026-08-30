@@ -12,3 +12,7 @@ print(x)
 x = 10
 x -= 5
 print(x)
+
+# ? parentheses > exponential operator > multiplication > division > addition > subtraction
+x = (10 + 3) * 2 ** 2
+print(x)
