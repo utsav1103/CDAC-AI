@@ -20,3 +20,11 @@ print(f"Your name has {len(name)} characters.")
 print(name.upper())
 print(name.lower())
 print(name.title())    
+
+print(name.find("chan"))    
+#finds the index of the first occurrence of the substring
+print(name.replace("chan", "Cutie Chan")) 
+
+'gitthal' in name
+print('gitthal' in name)  # returns True if 'gitthal' is found in name, else False
+print('Gitthal' in name)  # returns False because of case sensitivity
