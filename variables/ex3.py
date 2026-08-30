@@ -15,3 +15,14 @@ to_kg = weight2 * 0.45
 
 print (f"your weight in pounds is {to_pounds} lbs.")
 print (f"your weight in kg is {to_kg} kg.")
+
+message = '''
+hey Mikasa,
+ I love you so much.
+   I can't wait to see you again.
+     I miss you so much.
+       I hope you are doing well.
+         I love you.
+'''
+
+print(message)
