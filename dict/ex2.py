@@ -16,6 +16,7 @@ digit_map = {
 output = ""
 
 for ch in contact: 
-    output += digit_map.get(ch, "!") + " "
+    # output += digit_map[ch] + " "  # This will throw an error if ch is not in digit_map
+    output += digit_map.get(ch, "!") + " " 
 
 print(output)
