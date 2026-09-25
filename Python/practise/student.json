@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "mikasa",
+        "course": "ai",
+        "marks": 99.0,
+        "grade": "A"
+    }
+]
