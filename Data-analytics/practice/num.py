@@ -9,10 +9,36 @@
 
 import numpy as np
 
-a = np.array([10, 20, 30, 40])
-b = np.array([1, 2, 3, 4])
+# a = np.array([10, 20, 30, 40])
+# b = np.array([1, 2, 3, 4])
+
+# print(a + b)
+# print(a - b)
+# print(a * b)
+# print(a / b)
+
+#* Broadcasting
+a = np.array([
+    [10, 20, 30],
+    [40, 50, 60]
+])
+
+b = np.array([1, 2, 3])
 
 print(a + b)
-print(a - b)
-print(a * b)
-print(a / b)
+
+print(a + 5)
+
+#boolean operations
+
+marks = np.array([35, 45, 60, 75, 90])
+
+print(marks < 50)
+print(marks >= 60)
+print(marks == 45)
+print(marks != 75)
+
+# masking boolean
+
+result = marks > 50
+print(marks[result])
