@@ -42,3 +42,10 @@ print(marks != 75)
 
 result = marks > 50
 print(marks[result])
+
+
+# multiple conditions
+
+result1 = marks[(marks >= 50) & (marks <= 80)]
+
+print(result1)
