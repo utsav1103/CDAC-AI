@@ -54,3 +54,9 @@ print(result)
 
 #You can also split at specific indices:
 print(np.split(ar, [2, 4]))
+
+
+val = np.array([10,20,np.nan,40,np.nan,60])
+print(np.isnan(val))
+print(np.isnan(val).sum())
+print(np.nanmean(val))
