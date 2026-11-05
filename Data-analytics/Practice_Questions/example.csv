@@ -1,0 +1,101 @@
+StudentID,Name,Age,Gender,Department,MathScore,ScienceScore,EnglishScore,GPA
+1,Aarav Sharma,20,Male,Computer Science,88,92,85,3.75
+2,Ananya Patel,21,Female,Mathematics,95,89,91,3.90
+3,Rohan Verma,20,Male,Physics,44,80,78,3.10
+4,Priya Nair,22,Female,Biology,82,85,88,3.50
+5,Vikram Singh,21,Male,Computer Science,91,94,84,3.82
+6,Neha Gupta,20,Female,Chemistry,79,81,85,3.35
+7,Arjun Rao,22,Male,Mathematics,68,75,72,2.85
+8,Divya Iyer,21,Female,Physics,85,90,89,3.68
+9,Kiran Kumar,20,Male,Biology,76,78,74,3.05
+10,Meera Joshi,21,Female,Computer Science,93,95,92,9.95
+11,Aditya Sen,22,Male,Chemistry,70,72,75,2.90
+12,Tanvi Kulkarni,20,Female,Mathematics,88,86,90,3.60
+13,Siddharth Menon,21,Male,Physics,81,84,79,3.38
+14,Pooja Reddy,20,Female,Computer Science,96,93,94,3.92
+15,Manish Tiwari,22,Male,Biology,65,70,68,2.65
+16,Sneha Pillai,21,Female,Chemistry,84,88,86,3.55
+17,Karthik Iyer,20,Male,Mathematics,51,87,83,3.65
+18,Ritu Sharma,22,Female,Physics,77,82,80,3.28
+19,Varun Kapoor,21,Male,Computer Science,89,91,87,3.72
+20,Kavya Nair,20,Female,Biology,120,89,91,3.85
+21,Deepak Verma,22,Male,Chemistry,72,76,74,3.00
+22,Swati Das,21,Female,Mathematics,86,85,88,3.52
+23,Nikhil Pandey,20,Male,Physics,78,80,77,3.22
+24,Anjali Roy,22,Female,Computer Science,94,96,93,3.94
+25,Tarun Chatterjee,21,Male,Biology,69,73,71,2.88
+26,Shruti Rao,20,Female,Chemistry,83,85,84,3.48
+27,Pratik Gandhi,22,Male,Mathematics,130,84,86,3.56
+28,Poornima Iyer,21,Female,Physics,80,83,82,3.40
+29,Harshvardhan Rao,20,Male,Computer Science,90,32,89,3.78
+30,Shreya Mukherjee,22,Female,Biology,85,87,90,3.62
+31,Ashish Kulkarni,21,Male,Chemistry,74,77,75,3.15
+32,Bhavna Saxena,20,Female,Mathematics,91,88,92,3.75
+33,Mayank Dubey,22,Male,Physics,46,79,78,3.25
+34,Kritika Bansal,21,Female,Computer Science,95,94,95,3.91
+35,Suresh Nair,20,Male,Biology,71,74,72,2.95
+36,Nikita Chauhan,22,Female,Chemistry,82,84,83,3.45
+37,Chirag Shah,21,Male,Mathematics,89,86,85,3.60
+38,Ishita Bose,20,Female,Physics,81,85,84,3.48
+39,Yashwant Rao,22,Male,Computer Science,92,90,91,3.79
+40,Simran Kaur,21,Female,Biology,88,86,89,3.64
+41,Abhishek Mishra,20,Male,Chemistry,75,78,76,8.20
+42,Radhika Nambiar,22,Female,Mathematics,93,91,94,3.86
+43,Gaurav Tiwari,21,Male,Physics,73,77,75,3.12
+44,Pallavi Deshmukh,20,Female,Computer Science,90,93,22,3.80
+45,Rajesh Pillai,22,Male,Biology,67,71,69,2.72
+46,Monika Saini,21,Female,Chemistry,80,82,81,3.38
+47,Naveen Kumar,20,Male,Mathematics,85,83,86,3.48
+48,Geeta Iyer,22,Female,Physics,79,81,80,3.32
+49,Alok Verma,21,Male,Computer Science,88,91,88,3.70
+50,Sunita Patel,20,Female,Biology,84,85,87,3.54
+51,Puneet Yadav,22,Male,Chemistry,71,75,73,3.02
+52,Meenakshi Sundaram,21,Female,Mathematics,92,90,93,3.82
+53,Sandeep Chauhan,20,Male,Physics,75,78,77,3.20
+54,Vandana Menon,22,Female,Computer Science,94,92,95,3.88
+55,Hemanth Rao,21,Male,Biology,70,74,72,2.92
+56,Rekha Sharma,20,Female,Chemistry,83,86,84,3.50
+57,Ajit Ghosh,22,Male,Mathematics,86,84,87,3.55
+58,Lata Kulkarni,21,Female,Physics,82,85,83,3.45
+59,Vikas Singhal,20,Male,Computer Science,91,93,90,3.78
+60,Mamata Devi,22,Female,Biology,87,85,88,3.60
+61,Rakesh Khanna,21,Male,Chemistry,73,76,74,3.08
+62,Deepika Sen,20,Female,Mathematics,90,88,91,3.72
+63,Satish Kumar,22,Male,Physics,77,80,78,3.25
+64,Anita Roy,21,Female,Computer Science,93,95,94,3.90
+65,Dilip Joshi,20,Male,Biology,68,72,70,2.80
+66,Sangeeta Verma,22,Female,Chemistry,81,83,82,3.42
+67,Manoj Tiwari,21,Male,Mathematics,88,86,89,3.58
+68,Kiranmayi Rao,20,Female,Physics,80,82,81,3.35
+69,Prashant Nair,22,Male,Computer Science,92,91,93,3.82
+70,Hemant Pillai,21,Female,Biology,86,84,87,3.56
+71,Chandan Mishra,20,Male,Chemistry,72,76,74,3.05
+72,Nandini Gupta,22,Female,Mathematics,91,89,92,3.78
+73,Sumit Kulkarni,21,Male,Physics,76,79,77,3.22
+74,Kavitha Menon,20,Female,Computer Science,95,94,96,3.92
+75,Girish Patel,22,Male,Biology,69,73,71,2.85
+76,Madhuri Das,21,Female,Chemistry,84,86,85,3.52
+77,Subhash Sharma,20,Male,Mathematics,87,85,88,3.56
+78,Vani Iyer,22,Female,Physics,79,82,80,3.32
+79,Pramod Verma,21,Male,Computer Science,90,92,89,3.75
+80,Yogita Pandey,20,Female,Biology,85,87,86,3.58
+81,Kamaljeet Singh,22,Male,Chemistry,74,77,75,3.12
+82,Jyoti Roy,21,Female,Mathematics,92,90,93,3.84
+83,Nitin Chatterjee,20,Male,Physics,78,81,79,3.30
+84,Pallavi Shah,22,Female,Computer Science,94,93,95,3.89
+85,Dinesh Gandhi,21,Male,Biology,70,74,72,2.95
+86,Bhavana Bose,20,Female,Chemistry,83,85,84,3.48
+87,Ajay Rao,22,Male,Mathematics,86,84,87,3.55
+88,Sarita Kaur,21,Female,Physics,81,84,82,3.42
+89,Rajat Nambiar,20,Male,Computer Science,91,93,92,3.80
+90,Archana Tiwari,22,Female,Biology,88,86,89,3.62
+91,Tushar Deshmukh,21,Male,Chemistry,75,78,76,3.18
+92,Laxmi Pillai,20,Female,Mathematics,93,91,94,3.86
+93,Vineet Saini,22,Male,Physics,77,80,78,3.28
+94,Vidya Kumar,21,Female,Computer Science,95,94,95,3.91
+95,Mohit Iyer,20,Male,Biology,71,75,73,3.02
+96,Kalyani Sharma,22,Female,Chemistry,82,85,83,3.46
+97,Narender Patel,21,Male,Mathematics,89,87,90,3.68
+98,Gayatri Menon,20,Female,Physics,80,83,81,3.40
+99,Sandeep Verma,22,Male,Computer Science,92,91,93,3.81
+100,Tanuja Das,21,Female,Biology,86,88,87,3.65
