@@ -119,26 +119,8 @@ def phase_5_joblib_model_persistence(model, scaler, feature_names):
     loaded_scaler = joblib.load("loan_scaler.joblib")
     loaded_features = joblib.load("loan_feature_names.joblib")
 
-
-    # Create a sample applicant
-    sample_applicant = pd.DataFrame(
-        [[35, 55, 680, 5, 20, 0, 1, 20/55]],
-        columns=loaded_features
-    )
-
-    # Scale sample data
-    sample_scaled = loaded_scaler.transform(sample_applicant)
-
-    # Predict default risk
-    prediction = loaded_model.predict(sample_scaled)
-
-    print("\nSample Applicant Prediction:")
-
-    if prediction[0] == 1:
-        print("Applicant is likely to DEFAULT.")
-    else:
-        print("Applicant is likely to NOT DEFAULT.")
-
+    print("Model and scaler loaded successfully!")
+    
 # ==========================================
 # THE FACADE FUNCTION (Orchestrator)
 # ==========================================
